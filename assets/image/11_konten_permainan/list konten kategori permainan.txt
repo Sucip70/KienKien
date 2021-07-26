@@ -1,0 +1,76 @@
+===================
+ANGKA
+MUDAH:
+1.	Nol – khong 
+2.	Satu - it
+3.	Dua - ji
+4.	Tiga - sa
+5.	Empat - si
+6.	Lima – goh
+7.	Enam - lak
+8.	Tujuh - jhit
+9.	Delapan - pek
+10.	Sembilan - khau
+
+SEDANG:
+1.	Sepuluh - cap
+2.	Sebelas – cap it
+3.	Dua belas – cap ji
+4.	Tiga belas – cap sa
+5.	tujuh belas – cap jhit
+
+SUSAH:
+1.	Dua puluh Satu – ji cap it
+2.	Dua puluh dua – ji cap ji
+3.	Tiga puluh delapan – sa cap pek
+4.	Empat puluh tiga – si cap sa
+5.	Lima puluh – goh cap
+
+SANGAT SUSAH:
+1.	Seratus – ce pak
+2.	Seratus satu – ce pak khong it
+3.	Seratus sepuluh – ce pak cap
+4.	Seratus empat belas  - ce pak cap si
+5.	Seratus lima puluh tiga – ce pak goh cap sa
+
+===================
+BUAH
+MUDAH:
+1.	apel - pheng ko 
+2.	jeruk – kam
+3.	jeruk nipis - seng kam
+4.	pisang - kin cio
+5.	pir - laiya
+6.	semangka - si kua
+7.	pepaya - bok kua / mok kua 
+8.	nenas - ong lai
+9.	kelapa – ia
+10.	belimbing – belimbing atau anggur – phu to
+
+===================
+HEWAN
+MUDAH:
+1.	kucing – ngiao
+2.	kelinci  - pek tho
+3.	anjing - kau
+4.	ayam - ke
+5.	ikan - hu
+6.	bebek – akk
+7.	sapi - gu
+8.	gajah - chio
+9.	monyet – lao kau
+10.	burung - chiaw
+
+===================
+WARNA
+MUDAH:
+1.	Warna Putih – pek sek
+2.	Warna Hitam - o Sek
+3.	warna Merah – ang sek
+4.	Warna Biru - Lam Sek
+5.	Warna Merah Jambu - Cui Ang Sek
+6.	Warna Kuning - Ui Sek / uwi sek
+7.	Warna Hijau - Che Sek
+8.	Warna Ungu - Kio Sek
+9.	Warna Emas - Kim Sek 
+10.	Warna Perak - Gin Sek
