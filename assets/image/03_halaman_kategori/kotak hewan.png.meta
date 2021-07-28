@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "3aacb060-0036-4042-993d-3779a02e393d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1352,
+  "height": 648,
+  "platformSettings": {},
+  "subMetas": {
+    "kotak hewan": {
+      "ver": "1.0.4",
+      "uuid": "38c67b3f-bfd1-4b3d-8631-795ce565d39f",
+      "rawTextureUuid": "3aacb060-0036-4042-993d-3779a02e393d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1352,
+      "height": 648,
+      "rawWidth": 1352,
+      "rawHeight": 648,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

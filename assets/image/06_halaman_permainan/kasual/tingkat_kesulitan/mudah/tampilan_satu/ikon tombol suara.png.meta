@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "05d20604-da27-4b78-a15b-a294bb585307",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 220,
+  "height": 164,
+  "platformSettings": {},
+  "subMetas": {
+    "ikon tombol suara": {
+      "ver": "1.0.4",
+      "uuid": "08e6ce7d-d993-4ce2-b538-6faf95681eb6",
+      "rawTextureUuid": "05d20604-da27-4b78-a15b-a294bb585307",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1.5,
+      "offsetY": 0,
+      "trimX": 3,
+      "trimY": 0,
+      "width": 217,
+      "height": 164,
+      "rawWidth": 220,
+      "rawHeight": 164,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

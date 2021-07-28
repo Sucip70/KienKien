@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "1fa3a81f-7c51-4209-bc61-94f8a7a76e3d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1352,
+  "height": 648,
+  "platformSettings": {},
+  "subMetas": {
+    "kotak buah-buahan": {
+      "ver": "1.0.4",
+      "uuid": "cbad854a-112c-419f-8427-05e9cde5fc76",
+      "rawTextureUuid": "1fa3a81f-7c51-4209-bc61-94f8a7a76e3d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1352,
+      "height": 648,
+      "rawWidth": 1352,
+      "rawHeight": 648,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

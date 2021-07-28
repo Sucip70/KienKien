@@ -1,0 +1,22 @@
+{
+    "mudah":{
+        "indo":["kucing","kelinci","anjing","ayam","ikan","bebek","sapi","gajah","monyet","burung"],
+        "hokkien":["ngiao","pek tho","kau","ke","hu","akk","gu","chio","lao kau","chiaw"],
+        "type": [0]
+    },
+    "sedang":{
+        "indo":[],
+        "hokkien":[],
+        "type": [0]
+    },
+    "sulit":{
+        "indo":[],
+        "hokkien":[],
+        "type": [0]
+    },
+    "sangat_sulit":{
+        "indo":[],
+        "hokkien":[],
+        "type": [0]
+    }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "134461db-cc04-488a-9841-8663e851f5fb",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1656,
+  "height": 8,
+  "platformSettings": {},
+  "subMetas": {
+    "garis vector atas": {
+      "ver": "1.0.4",
+      "uuid": "5498046c-f7f5-4c4f-bfa4-88f516e56040",
+      "rawTextureUuid": "134461db-cc04-488a-9841-8663e851f5fb",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1656,
+      "height": 8,
+      "rawWidth": 1656,
+      "rawHeight": 8,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

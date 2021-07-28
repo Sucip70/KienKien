@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "9c021376-5cc3-44f8-bb31-230cc10985d8",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1352,
+  "height": 9,
+  "platformSettings": {},
+  "subMetas": {
+    "garis kotak tugas mingguan": {
+      "ver": "1.0.4",
+      "uuid": "0346c561-55f3-4533-8900-b4843be7f0f7",
+      "rawTextureUuid": "9c021376-5cc3-44f8-bb31-230cc10985d8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1352,
+      "height": 9,
+      "rawWidth": 1352,
+      "rawHeight": 9,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

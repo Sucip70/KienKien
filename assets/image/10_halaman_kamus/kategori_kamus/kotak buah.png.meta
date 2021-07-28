@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "e3f16855-d060-4991-ab7c-ced0966ef257",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1352,
+  "height": 528,
+  "platformSettings": {},
+  "subMetas": {
+    "kotak buah": {
+      "ver": "1.0.4",
+      "uuid": "ef330c4d-3e9d-4cae-b50c-c5b7cdc22853",
+      "rawTextureUuid": "e3f16855-d060-4991-ab7c-ced0966ef257",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1352,
+      "height": 528,
+      "rawWidth": 1352,
+      "rawHeight": 528,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

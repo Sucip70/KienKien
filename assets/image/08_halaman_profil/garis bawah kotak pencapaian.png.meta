@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "ac14974b-b596-43e1-bafe-9943b41c7117",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1420,
+  "height": 8,
+  "platformSettings": {},
+  "subMetas": {
+    "garis bawah kotak pencapaian": {
+      "ver": "1.0.4",
+      "uuid": "70ed7b94-2cb0-44ad-9395-cf44b85d14a3",
+      "rawTextureUuid": "ac14974b-b596-43e1-bafe-9943b41c7117",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1420,
+      "height": 8,
+      "rawWidth": 1420,
+      "rawHeight": 8,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

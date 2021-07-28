@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "02f8455d-cb51-4a58-8e86-411934b934c4",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1416,
+  "height": 448,
+  "platformSettings": {},
+  "subMetas": {
+    "kotak BG pencapaian hidup": {
+      "ver": "1.0.4",
+      "uuid": "678480e7-4b41-4f26-8536-518e2a561e13",
+      "rawTextureUuid": "02f8455d-cb51-4a58-8e86-411934b934c4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1416,
+      "height": 448,
+      "rawWidth": 1416,
+      "rawHeight": 448,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

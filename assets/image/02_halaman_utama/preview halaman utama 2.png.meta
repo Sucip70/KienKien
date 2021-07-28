@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "a9c21e26-46de-41b7-91df-35eabe120c33",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1656,
+  "height": 3857,
+  "platformSettings": {},
+  "subMetas": {
+    "preview halaman utama 2": {
+      "ver": "1.0.4",
+      "uuid": "610138ea-469c-40b5-bcf6-fbde0b352625",
+      "rawTextureUuid": "a9c21e26-46de-41b7-91df-35eabe120c33",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1656,
+      "height": 3857,
+      "rawWidth": 1656,
+      "rawHeight": 3857,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

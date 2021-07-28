@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "ed6d6d7e-8aa9-4436-a96e-419e31225ac3",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 728,
+  "height": 132,
+  "platformSettings": {},
+  "subMetas": {
+    "tombol klaim hadiah mati": {
+      "ver": "1.0.4",
+      "uuid": "ad19ec16-0e2c-4532-b98a-5e7f869fe744",
+      "rawTextureUuid": "ed6d6d7e-8aa9-4436-a96e-419e31225ac3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 728,
+      "height": 132,
+      "rawWidth": 728,
+      "rawHeight": 132,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

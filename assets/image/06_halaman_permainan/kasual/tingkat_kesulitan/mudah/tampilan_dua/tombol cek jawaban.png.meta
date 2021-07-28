@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "17e1b3fa-7dc3-4022-b383-adc65f316d11",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1512,
+  "height": 240,
+  "platformSettings": {},
+  "subMetas": {
+    "tombol cek jawaban": {
+      "ver": "1.0.4",
+      "uuid": "e7fb7ead-d684-4d6e-bc76-f14787786505",
+      "rawTextureUuid": "17e1b3fa-7dc3-4022-b383-adc65f316d11",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1512,
+      "height": 240,
+      "rawWidth": 1512,
+      "rawHeight": 240,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

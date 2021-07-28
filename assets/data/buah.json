@@ -1,0 +1,22 @@
+{
+    "mudah":{
+        "indo":["apel","jeruk","jeruk nipis","pisang","pir","semangka","pepaya","nenas","kelapa","belimbing"],
+        "hokkien":["pheng ko","kam","seng kam","kin cio","laiya","si kua","bok kua / mok kua","ong lai","ia","phu to"],
+        "type": [0]
+    },
+    "sedang":{
+        "indo":[],
+        "hokkien":[],
+        "type": [0]
+    },
+    "sulit":{
+        "indo":[],
+        "hokkien":[],
+        "type": [0]
+    },
+    "sangat_sulit":{
+        "indo":[],
+        "hokkien":[],
+        "type": [0]
+    }
+}

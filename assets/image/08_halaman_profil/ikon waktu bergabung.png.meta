@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "66fc72aa-7da5-4487-b1d1-78fb7230677f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 68,
+  "height": 68,
+  "platformSettings": {},
+  "subMetas": {
+    "ikon waktu bergabung": {
+      "ver": "1.0.4",
+      "uuid": "efa1513f-5af2-4feb-a7d0-b933e651bccd",
+      "rawTextureUuid": "66fc72aa-7da5-4487-b1d1-78fb7230677f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 68,
+      "height": 68,
+      "rawWidth": 68,
+      "rawHeight": 68,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

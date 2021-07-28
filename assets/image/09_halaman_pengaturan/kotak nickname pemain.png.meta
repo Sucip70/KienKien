@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "1658b672-de79-48db-8bd1-d5229cbd7255",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 958,
+  "height": 246,
+  "platformSettings": {},
+  "subMetas": {
+    "kotak nickname pemain": {
+      "ver": "1.0.4",
+      "uuid": "fdf98620-e092-469d-8f92-ec2c69d1555c",
+      "rawTextureUuid": "1658b672-de79-48db-8bd1-d5229cbd7255",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": -0.5,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 957,
+      "height": 245,
+      "rawWidth": 958,
+      "rawHeight": 246,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

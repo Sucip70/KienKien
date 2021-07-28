@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "cd8c4d31-67df-46c8-9c5d-e15e23234246",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 172,
+  "height": 132,
+  "platformSettings": {},
+  "subMetas": {
+    "tombol kembali": {
+      "ver": "1.0.4",
+      "uuid": "f71ba296-a278-4bad-8aef-b4da6693ed92",
+      "rawTextureUuid": "cd8c4d31-67df-46c8-9c5d-e15e23234246",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 172,
+      "height": 132,
+      "rawWidth": 172,
+      "rawHeight": 132,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

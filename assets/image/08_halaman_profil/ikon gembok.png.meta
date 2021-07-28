@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "4f355192-b61b-420d-ba33-8c6a1b63859f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 181,
+  "height": 252,
+  "platformSettings": {},
+  "subMetas": {
+    "ikon gembok": {
+      "ver": "1.0.4",
+      "uuid": "d202c518-fc43-4438-b8cb-e34bfe6951f7",
+      "rawTextureUuid": "4f355192-b61b-420d-ba33-8c6a1b63859f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 181,
+      "height": 252,
+      "rawWidth": 181,
+      "rawHeight": 252,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

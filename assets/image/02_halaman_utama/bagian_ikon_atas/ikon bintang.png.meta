@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "782afc96-a93f-453e-bdeb-3def72114f52",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 128,
+  "height": 128,
+  "platformSettings": {},
+  "subMetas": {
+    "ikon bintang": {
+      "ver": "1.0.4",
+      "uuid": "e63f0953-af31-495a-9402-1fa32db6cbff",
+      "rawTextureUuid": "782afc96-a93f-453e-bdeb-3def72114f52",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 5.5,
+      "trimX": 7,
+      "trimY": 4,
+      "width": 114,
+      "height": 109,
+      "rawWidth": 128,
+      "rawHeight": 128,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

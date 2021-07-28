@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "482edf06-ff32-4be8-b822-f012540ecb9f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1656,
+  "height": 2220,
+  "platformSettings": {},
+  "subMetas": {
+    "lingkaran kuning BG": {
+      "ver": "1.0.4",
+      "uuid": "38c7c37a-ec1f-4fc0-b784-7890df5a3d53",
+      "rawTextureUuid": "482edf06-ff32-4be8-b822-f012540ecb9f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1656,
+      "height": 2220,
+      "rawWidth": 1656,
+      "rawHeight": 2220,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

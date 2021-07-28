@@ -1,0 +1,10 @@
+{
+    "name": "Nama Pemain",
+    "nickname": "Nickname Pemain",
+    "joinDate": "-",
+    "coin": 0,
+    "heart": 5,
+    "star": 0,
+    "lastTaskDate": "-",
+    "taskStack": 0 
+}

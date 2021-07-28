@@ -1,0 +1,22 @@
+{
+    "mudah":{
+        "indo":["putih","hitam","merah","biru","merah jambu","kuning","hijau","ungu","emas","perak"],
+        "hokkien":["pek pek","o sek","ang sek","lam sek","cui ang sek","ui sek / uwi sek","che sek","kio sek","kim sek","kin sek"],
+        "type": [0]
+    },
+    "sedang":{
+        "indo":[],
+        "hokkien":[],
+        "type": [0]
+    },
+    "sulit":{
+        "indo":[],
+        "hokkien":[],
+        "type": [0]
+    },
+    "sangat_sulit":{
+        "indo":[],
+        "hokkien":[],
+        "type": [0]
+    }
+}

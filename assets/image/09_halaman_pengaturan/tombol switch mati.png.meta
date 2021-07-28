@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "543c2c9f-d1f8-459f-910b-ca01b5a96856",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 124,
+  "height": 124,
+  "platformSettings": {},
+  "subMetas": {
+    "tombol switch mati": {
+      "ver": "1.0.4",
+      "uuid": "89209aa5-6d05-4751-8b35-4cc0806c1769",
+      "rawTextureUuid": "543c2c9f-d1f8-459f-910b-ca01b5a96856",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 124,
+      "height": 124,
+      "rawWidth": 124,
+      "rawHeight": 124,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

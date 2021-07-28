@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "825d5155-2667-458f-8729-d392bf09cf75",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 332,
+  "height": 128,
+  "platformSettings": {},
+  "subMetas": {
+    "tombol mulai": {
+      "ver": "1.0.4",
+      "uuid": "281c53a0-a70f-4c9e-94cd-2625069621d3",
+      "rawTextureUuid": "825d5155-2667-458f-8729-d392bf09cf75",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0.5,
+      "trimX": 1,
+      "trimY": 0,
+      "width": 330,
+      "height": 127,
+      "rawWidth": 332,
+      "rawHeight": 128,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

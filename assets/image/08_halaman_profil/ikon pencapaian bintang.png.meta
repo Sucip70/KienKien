@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "f3b19937-8a2f-446e-986f-7c6c5b3e24f9",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 328,
+  "height": 328,
+  "platformSettings": {},
+  "subMetas": {
+    "ikon pencapaian bintang": {
+      "ver": "1.0.4",
+      "uuid": "60281962-2a28-48bb-9669-71425fa75eef",
+      "rawTextureUuid": "f3b19937-8a2f-446e-986f-7c6c5b3e24f9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 13,
+      "trimX": 13,
+      "trimY": 6,
+      "width": 302,
+      "height": 290,
+      "rawWidth": 328,
+      "rawHeight": 328,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

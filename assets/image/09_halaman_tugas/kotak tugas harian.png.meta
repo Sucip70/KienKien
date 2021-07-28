@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "b3442d77-d3e5-462e-80dd-9a7fe6d89018",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1352,
+  "height": 1191,
+  "platformSettings": {},
+  "subMetas": {
+    "kotak tugas harian": {
+      "ver": "1.0.4",
+      "uuid": "e396dd34-a9d2-46a0-869e-2375903a0958",
+      "rawTextureUuid": "b3442d77-d3e5-462e-80dd-9a7fe6d89018",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -0.5,
+      "trimX": 0,
+      "trimY": 1,
+      "width": 1352,
+      "height": 1190,
+      "rawWidth": 1352,
+      "rawHeight": 1191,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

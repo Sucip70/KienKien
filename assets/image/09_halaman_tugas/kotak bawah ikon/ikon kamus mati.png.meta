@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "3c3dee1b-4b98-45d8-bf57-1e076ea21d23",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 182,
+  "height": 153,
+  "platformSettings": {},
+  "subMetas": {
+    "ikon kamus mati": {
+      "ver": "1.0.4",
+      "uuid": "620ffbbf-f408-4c44-94cf-63b4849bc45c",
+      "rawTextureUuid": "3c3dee1b-4b98-45d8-bf57-1e076ea21d23",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 182,
+      "height": 153,
+      "rawWidth": 182,
+      "rawHeight": 153,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

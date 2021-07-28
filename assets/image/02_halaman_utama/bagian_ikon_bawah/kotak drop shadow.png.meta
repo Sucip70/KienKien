@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "8ce3f59d-8887-4241-98b8-80dd5871212c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1656,
+  "height": 428,
+  "platformSettings": {},
+  "subMetas": {
+    "kotak drop shadow": {
+      "ver": "1.0.4",
+      "uuid": "ccbf86c5-6a3e-480e-944b-b748753c0ce9",
+      "rawTextureUuid": "8ce3f59d-8887-4241-98b8-80dd5871212c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1656,
+      "height": 428,
+      "rawWidth": 1656,
+      "rawHeight": 428,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

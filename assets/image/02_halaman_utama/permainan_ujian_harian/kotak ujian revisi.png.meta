@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "de26d005-8031-47fa-972e-04b777abb6fe",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1352,
+  "height": 648,
+  "platformSettings": {},
+  "subMetas": {
+    "kotak ujian revisi": {
+      "ver": "1.0.4",
+      "uuid": "18abf751-388a-4690-9759-ec4aa65bdec7",
+      "rawTextureUuid": "de26d005-8031-47fa-972e-04b777abb6fe",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1352,
+      "height": 648,
+      "rawWidth": 1352,
+      "rawHeight": 648,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

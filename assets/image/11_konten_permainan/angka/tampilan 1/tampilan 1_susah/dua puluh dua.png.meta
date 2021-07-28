@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "88165612-a126-4e76-a23a-1c01f2d5ff08",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 788,
+  "height": 788,
+  "platformSettings": {},
+  "subMetas": {
+    "dua puluh dua": {
+      "ver": "1.0.4",
+      "uuid": "97821692-de99-4ba8-99bc-90c3da02c83c",
+      "rawTextureUuid": "88165612-a126-4e76-a23a-1c01f2d5ff08",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 53,
+      "trimY": 133,
+      "width": 682,
+      "height": 522,
+      "rawWidth": 788,
+      "rawHeight": 788,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

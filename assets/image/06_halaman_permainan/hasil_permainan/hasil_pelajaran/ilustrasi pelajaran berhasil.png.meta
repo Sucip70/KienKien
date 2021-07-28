@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "4c7f5ff3-c51c-4485-962d-3b5968e9b6ec",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 876,
+  "height": 1176,
+  "platformSettings": {},
+  "subMetas": {
+    "ilustrasi pelajaran berhasil": {
+      "ver": "1.0.4",
+      "uuid": "05e27e5e-8f52-48fa-86b9-e1dc6b9e3a47",
+      "rawTextureUuid": "4c7f5ff3-c51c-4485-962d-3b5968e9b6ec",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": -3,
+      "trimX": 18,
+      "trimY": 59,
+      "width": 839,
+      "height": 1064,
+      "rawWidth": 876,
+      "rawHeight": 1176,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

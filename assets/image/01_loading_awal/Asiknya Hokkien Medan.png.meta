@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "4793cae5-a7af-4bea-aa90-e9958fc939b2",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1068,
+  "height": 110,
+  "platformSettings": {},
+  "subMetas": {
+    "Asiknya Hokkien Medan": {
+      "ver": "1.0.4",
+      "uuid": "c5a09e47-f10c-45f0-a1af-803ef04e8336",
+      "rawTextureUuid": "4793cae5-a7af-4bea-aa90-e9958fc939b2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -1.5,
+      "trimX": 0,
+      "trimY": 3,
+      "width": 1068,
+      "height": 107,
+      "rawWidth": 1068,
+      "rawHeight": 110,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

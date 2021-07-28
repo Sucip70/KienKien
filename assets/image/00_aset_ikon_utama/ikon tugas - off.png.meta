@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "d46fd42c-2dfb-400a-9817-b91f3b4f3c06",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 32,
+  "height": 168,
+  "platformSettings": {},
+  "subMetas": {
+    "ikon tugas - off": {
+      "ver": "1.0.4",
+      "uuid": "e03262b3-e9a8-4931-a9bc-95003f239cfb",
+      "rawTextureUuid": "d46fd42c-2dfb-400a-9817-b91f3b4f3c06",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 32,
+      "height": 168,
+      "rawWidth": 32,
+      "rawHeight": 168,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

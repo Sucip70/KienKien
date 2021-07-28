@@ -1,0 +1,22 @@
+{
+    "mudah":{
+        "indo":["nol","satu","dua","tiga","empat","lima","enam","tujuh","delapan","sembilan"],
+        "hokkien":["khong","it","ji","sa","si","goh","lak","jhit","pek","khau"],
+        "type": [0, 1]
+    },
+    "sedang":{
+        "indo":["sepuluh","sebelas","dua belas","tiga belas","tujuh belas"],
+        "hokkien":["cap","cap it","cap ji","cap sa","cap jhit"],
+        "type": [0]
+    },
+    "sulit":{
+        "indo":["dua puluh satu", "dua puluh dua", "tiga puluh delapan", "empat puluh tiga","lima puluh"],
+        "hokkien":["ji cap it","ji cap ji","sa cap pek","si cap sa","goh cap"],
+        "type": [0]
+    },
+    "sangat_sulit":{
+        "indo":["seratus","seratus satu","seratus sepuluh","seratus empat belas","seratus lima puluh tiga"],
+        "hokkien":["ce pak","ce pak khong it","ce pak cap","ce pak cap si","ce pak goh cap sa"],
+        "type": [0]
+    }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "831a3d8e-ab71-4bbd-8aa5-7920e86fd6b4",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 199,
+  "height": 186,
+  "platformSettings": {},
+  "subMetas": {
+    "ikon profil mati": {
+      "ver": "1.0.4",
+      "uuid": "65881a41-b1e3-4bf2-81fd-790f1c6b1c41",
+      "rawTextureUuid": "831a3d8e-ab71-4bbd-8aa5-7920e86fd6b4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1.5,
+      "offsetY": -1.5,
+      "trimX": 3,
+      "trimY": 3,
+      "width": 196,
+      "height": 183,
+      "rawWidth": 199,
+      "rawHeight": 186,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
